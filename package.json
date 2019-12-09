@@ -1,0 +1,15 @@
+{
+  "name": "js-seeed-studio-relay-board",
+  "version": "1.0.0",
+  "description": "Javascript package to control the Seeed-Studio-Relay-Board.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ManUtopiK",
+  "license": "MIT",
+  "dependencies": {
+    "raspi": "^6.0.1",
+    "raspi-i2c": "^6.2.4"
+  }
+}
