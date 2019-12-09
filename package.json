@@ -2,12 +2,23 @@
   "name": "js-seeed-studio-relay-board",
   "version": "1.0.0",
   "description": "Javascript package to control the Seeed-Studio-Relay-Board.",
+  "license": "MIT",
+  "bugs": "https://github.com/ManUtopiK/js-seeed-studio-relay-board/issues",
+  "homepage": "https://github.com/ManUtopiK/js-seeed-studio-relay-board",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ManUtopiK/js-seeed-studio-relay-board"
+  },
+  "author": "ManUtopiK",
+  "keywords": [
+    "raspberry-pi",
+    "seeed-studio-relay-board",
+    "rpi"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ManUtopiK",
-  "license": "MIT",
   "dependencies": {
     "raspi": "^6.0.1",
     "raspi-i2c": "^6.2.4"
